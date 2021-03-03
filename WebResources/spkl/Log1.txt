@@ -1,0 +1,22 @@
+4:14:22 PM	Deploying WebResources
+4:14:22 PM	Using Config 'C:\Users\TonyS\source\repos\TScriptDemo\WebResources'
+5:11:27 PM	Deploying WebResources
+5:11:28 PM	Using Config 'C:\Users\TonyS\source\repos\TScriptDemo\WebResources'
+5:11:28 PM	Creating Webresource 'ts\AccountForm.js' -> 'kcdev_/js/AccountForm1.js'
+5:11:28 PM	Adding to solution 'KCAero'
+5:11:30 PM	Deployed 1 webresource(s)
+5:11:30 PM	Publishing 1 webresources...
+5:11:32 PM	Publish complete.
+5:11:32 PM	Processed 1 section(s)
+5:11:32 PM	Processed 1 config(s)
+1:09:57 PM	Deploying WebResources
+1:09:57 PM	Using Config 'C:\Users\TonyS\source\repos\TScriptDemo\WebResources'
+1:11:59 PM	Deploying WebResources
+1:12:00 PM	Using Config 'C:\Users\TonyS\source\repos\TScriptDemo\WebResources'
+1:12:00 PM	Creating Webresource 'js\AccountForm.js' -> 'kcdev_/js/AccountForm1.js'
+1:12:01 PM	Adding to solution 'KCAero'
+1:12:03 PM	Deployed 1 webresource(s)
+1:12:03 PM	Publishing 1 webresources...
+1:12:08 PM	Publish complete.
+1:12:08 PM	Processed 1 section(s)
+1:12:08 PM	Processed 1 config(s)
